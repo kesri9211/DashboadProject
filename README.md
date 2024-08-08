@@ -4,8 +4,8 @@ Dashboard is an important part of most of the web applications so there is the s
 - [ ] useState hook: change the state of function ex- expanding card, active sidebar content
 - [ ] Map method: calling array of object- reusability 
 - [ ] Icon scout: for various icon on dashboard
-- [ ]  React Apex chart:
-- [ ] Framer motion: package contain ‘Animated share layout’
+- [ ]  React Apex chart: for designing beautiful charts
+- [ ] Framer motion: package contains ‘Animated share layout’ used for smooth transition between the components
 - [ ] Animated share layout :for expanding and compact of card
 - [ ] <CircularProgressbar> library for circular graph
 - [ ] Material ui table- for designing table
